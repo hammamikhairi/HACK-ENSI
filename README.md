@@ -1,4 +1,4 @@
-# Gamification Work Environment Website
+# Gamification Work Environment Website - Accrue
 
 This project is a Next.js website that combines the power of Tailwind CSS and TypeScript to create an engaging and gamified work environment. The overarching theme is to revolutionize the conventional work experience by introducing game elements, making daily tasks and responsibilities more enjoyable and motivating. By leveraging Next.js, the website ensures a smooth and efficient user experience, providing a responsive and interactive platform.
 
