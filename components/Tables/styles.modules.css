@@ -1,0 +1,41 @@
+
+
+.eheheheh{
+  display: flex;
+  padding: 3rem 1rem;
+  position: relative;
+  height: fit-content;
+  justify-content: space-between;
+}
+
+.ossbb {
+  position: absolute;
+  right: 30px;
+  top: 25px;
+}
+
+.aaaaaaaaaaaaaaaaaaaaaaa {
+  width: 50%;
+  height: 100%;
+  left: 0;
+  background-color: red;
+}
+
+.concocnoc {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  padding-left: 3rem;
+  padding-bottom: 1rem;
+}
+
+.hihihihihi{
+  position: absolute;
+  z-index: 0;
+}¨
+
+.hihihihihii{
+  opacity: 1 !important;
+  z-index: 1;
+}

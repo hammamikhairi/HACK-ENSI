@@ -1,0 +1,47 @@
+
+.hamma h1{
+  font-size: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  line-height: 2rem;
+}
+
+
+.ach_container {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  margin: auto;
+}
+
+.ach {
+  width: 22%; /* 4 items per line */
+  height: 50px; /* Adjust height as needed */
+  margin: 8px; /* Adjust margin as needed for spacing */
+}
+
+.habibi{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.hihihihihi{
+  position: absolute;
+  z-index: 0;
+}¨
+
+.hihihihihii{
+  opacity: 1 !important;
+  z-index: 1;
+}¨
+
+.aaaaaaaaaaaaa{
+  position: absolute;
+  color: red !important;
+  z-index: 2;
+}
